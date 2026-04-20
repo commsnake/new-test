@@ -1,0 +1,17 @@
+{
+    "system_prompts": {
+        "perspective": "First-person internal monologue",
+        "sentence_length": "Average around 15.59 words, varying for rhythmic effect",
+        "lexical_density": "Maintain a lexical density around 0.3004"
+    },
+    "linguistic_rules": {
+        "avoid": [
+            "Over-reliance on third-person objective viewpoints",
+            "Excessively long, unbroken paragraphs without dialogue or internal reflection"
+        ],
+        "require": [
+            "Strong internal narrative voice",
+            "Consistent use of subjective observation"
+        ]
+    }
+}
